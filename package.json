@@ -1,5 +1,5 @@
 {
-  "name": "natours",
+  "name": "tours",
   "version": "1.0.0",
   "description": "Learning nodeJS, express and mongoDB",
   "main": "app.js",
